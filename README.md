@@ -1,4 +1,10 @@
-## Hi there 👋
+I'm a postdoctoral researcher specializing in polymer composites, smart materials, and sustainable recycling. Here's what I do:
+
+## 🔬 Research Highlights
+- 🧪 Vitrimer composite development
+- 🧱 Molecular dynamics simulations using LAMMPS
+- ♻️ End-of-life recycling of composites
+
 
 <!--
 **KumarVishal94/KumarVishal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
